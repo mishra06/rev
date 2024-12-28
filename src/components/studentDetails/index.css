@@ -1,0 +1,30 @@
+.containerrr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.mainss{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: flex-start;
+}
+
+.formss{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.formm{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.formss > input{
+    padding: 10px;
+    font-size: 20px;
+}

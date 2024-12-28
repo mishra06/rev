@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+  
+}
+  
+.content {
+    height: 40px;
+    width: 150px;
+    background-color: #f0f0f0;
+    cursor: grabbing;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+
+.btnnnnnn{
+    border-radius: 50px;
+    outline: none;
+    font-size: 20px;
+    font-weight: bolder;
+    border: none;
+    cursor: pointer;
+}
+
+.btnnnnnn:hover{
+    background-color: aqua;
+}
